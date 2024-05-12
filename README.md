@@ -1,11 +1,17 @@
-# Demodulator
-
+# Radio-Demodulator
+![](https://github.com/dagsion/RadioHardware-Demodulator/blob/main/IMG_0835.JPG)
 
 ## Introduction
-Demodulator is a web application designed to decode various digital modulation schemes commonly encountered in digital communications. It provides a visual representation of the demodulation process, making it easier to understand and analyze different modulation techniques.
+This project entails the collaborative effort of second-year ECE students, tasked with designing subsystems for a Software-Defined Radio (SDR) transceiver. My team focused on developing the demodulator and audio amplifier, serving as the final link in the receiver chain. This subsystem's core function involves converting processed radio signals into audio and subsequently amplifying it to drive large speakers.
 
-Digital modulation is a fundamental concept in telecommunications, where information is encoded into carrier signals for transmission over communication channels. Demodulation is the process of recovering this information from the modulated signal at the receiver end.
+## Design - Single Sideband Demodulator
+![](https://github.com/dagsion/RadioHardware-Demodulator/blob/main/Design.png)
 
-Demodulator offers a user-friendly interface that allows users to input modulated signals and observe the corresponding demodulated output in real-time. Whether you're a student learning about digital communications or a professional analyzing modulation techniques, Demodulator can serve as a valuable educational and analytical tool.
+## Prototype
 
+## Assembly
+![](https://github.com/dagsion/RadioHardware-Demodulator/blob/main/Assemble.JPG)
+## Testing
+
+## Results
 
