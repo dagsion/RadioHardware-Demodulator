@@ -6,7 +6,11 @@ This project entails the collaborative effort of second-year ECE students, taske
 
 ## Design - Single Sideband Demodulator
 ![](https://github.com/dagsion/RadioHardware-Demodulator/blob/main/Design.png)
-
+This is the design of the SSB demodulator on Altium. It is composed of four stages:
+1. Hilbert Transformer creates a 90-degree phase change between the I/Q signal to enable Single-Sideband suppression. It is composed of two-stage all-pass-filters across frequency 100-3200Hz
+2. Summing/differential Amplifier is responsible for Single-Sideband suppression.
+3. A Negative Power Supply is required for most of the IC chips on the PCB
+4. Audio Amplifier which is responsible for producing an audible output from the audio Jack
 ## Prototype
 
 ## Assembly
