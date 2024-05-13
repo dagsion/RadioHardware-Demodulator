@@ -12,7 +12,7 @@ This is the design of the SSB demodulator on Altium. It is composed of four stag
 3. A Negative Power Supply is required for most of the IC chips on the PCB
 4. Audio Amplifier which is responsible for producing an audible output from the audio Jack
 ## Prototype
-
+This is the Altium PCB Design. It is a single-layer double-sided PCB design.
 ## Assembly
 ![](https://github.com/dagsion/RadioHardware-Demodulator/blob/main/Assemble.JPG)
 ## Testing
