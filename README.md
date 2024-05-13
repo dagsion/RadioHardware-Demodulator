@@ -21,3 +21,6 @@ This is the fully soldered PCB board. These two components left unsoldered which
 
 ## Results
 Check out this video
+
+https://github.com/dagsion/RadioHardware-Demodulator/assets/117557771/a40ce58c-7ff9-4731-ac77-a94a2d153782
+
